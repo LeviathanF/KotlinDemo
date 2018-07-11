@@ -1,7 +1,7 @@
 package demo9.c9_3
 
 import java.util.function.Function
-
+const val NAME = "aaaa"
 open class Animal(open val name: String){
     open fun feed(){
         println("${name} had feed")

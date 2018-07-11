@@ -10,5 +10,6 @@ fun addAnswer(list:MutableList<Any>){
 
 fun main(args: Array<String>) {
     val list = mutableListOf("abc","a","b","c")
+    println(NAME)
 //    printContent(list)
 }
